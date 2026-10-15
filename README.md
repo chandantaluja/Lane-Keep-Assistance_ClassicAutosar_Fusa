@@ -15,11 +15,11 @@ Phase 6: Implement Functional Safety.
 
 Rest things shall come along.
 
-Update History:
+## Document Revision History
 
-| S. No | Description of changes | Author | Date | Ver No |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| 1 | Customer Requirements First Drafe | Chandan | Oct 16, 2026 | 0.1 |
-| 2 | --- | Chandan | --- | --- |
+| S. No | Description of Changes | Author | Date | Ver No |
+| :--- | :--- | :--- | :--- | :--- |
+| 1 | Customer Requirements First Draft | Chandan | Oct 16, 2026 | 0.1 |
+| 2 | — | Chandan | — | — |
 
 ---
