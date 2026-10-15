@@ -7,8 +7,10 @@ This repository contains the system, software, and customer requirements (CRs) f
 ## 📁 Folder Structure
 
 ## 📁 **Repository Structure**
-  - 📄 [`LKA_Requirements.md`](./CR_LaneKeepAssistance.md) — Core functional, safety, and interface requirements for LKA SWC
-  - 📄 [`Telltale_Requirements.md`](./CRS_SWC_TT_LaneKeepWarning.md) — Requirements for LKA Warning Telltale and HMI state management
+  - 📄 [`CR_LaneKeepAssistance.md`](./CR_LaneKeepAssistance.md) — Core functional, safety, and interface requirements for LKA SWC
+  - 📄 [`CR_SWC_TT_LaneKeepWarning.md`](./CR_SWC_TT_LaneKeepWarning.md) — Requirements for LKA Warning Telltale and HMI state management
+  - 📄 [`AutosarMappingGuidelines.md`](./AutosarMappingGuidelines.md) — Requirements for 
+  - 📄 [`AutosarPortArchitecture.md`](./AutosarPortArchitecture.md) — Requirements for 
   - 📄 [`README.md`](./README.md) — Repository documentation and guide
   
 ## Contributing & Updates
