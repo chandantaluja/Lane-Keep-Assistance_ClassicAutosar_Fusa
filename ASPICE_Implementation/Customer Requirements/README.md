@@ -15,6 +15,6 @@ This repository contains the system, software, and customer requirements (CRs) f
 ```
 ## Contributing & Updates
 When adding or modifying Customer Requirements (CRs):  
-Maintain unique ID naming conventions (CR_LKA_XXX).  
-Ensure safety-relevant constraints (ASIL classifications, torque thresholds, timeout limits) are explicitly documented.  
-Keep port names and data types synchronized with the AUTOSAR component interface description.  
+ • Maintain unique ID naming conventions (CR_LKA_XXX).  
+ • Ensure safety-relevant constraints (ASIL classifications, torque thresholds, timeout limits) are explicitly documented.  
+ • Keep port names and data types synchronized with the AUTOSAR component interface description.  
