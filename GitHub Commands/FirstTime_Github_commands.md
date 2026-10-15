@@ -10,9 +10,13 @@ A step-by-step guide to setting up SSH keys, configuring the SSH agent, resolvin
 Check if you already have an SSH key pair generated on your machine:
 ```bash
 ls -al ~/.ssh
-Note: If you see files named id_ed25519.pub or id_rsa.pub, an SSH key pair already exists.Step 2: Copy the Public SSH KeyDisplay the public key in your terminal to copy it manually:For Ed25519 key:Bashcat ~/.ssh/id_ed25519.pub
-For RSA key:Bashcat ~/.ssh/id_rsa.pub
-Or copy directly to your clipboard (Windows):Bashclip < ~/.ssh/id_ed25519.pub
+
+Note: If you see files named id_ed25519.pub or id_rsa.pub, an SSH key pair already exists.
+Step 2: Copy the Public SSH Key
+Display the public key in your terminal to copy it manually:
+For Ed25519 key: Bashcat ~/.ssh/id_ed25519.pub
+For RSA key: Bashcat ~/.ssh/id_rsa.pub
+Or copy directly to your clipboard (Windows): Bashclip < ~/.ssh/id_ed25519.pub
 Step 3: Add Key to GitHubGo to GitHub $\rightarrow$ Settings $\rightarrow$ SSH and GPG keys.Click New SSH Key.Paste your public key and click Add SSH key.Step 4: Add Private Key to SSH AgentAvoid typing your passphrase every time by adding your key to the SSH agent:Start the SSH agent in the background:Basheval "$(ssh-agent -s)"
 Add your private key:Bashssh-add ~/.ssh/id_ed25519
 Step 5: Test the ConnectionVerify that GitHub can authenticate your key:Bashssh -T git@github.com
