@@ -1,6 +1,6 @@
 # Lane Keep Assistance (LKA) & Lane Keep Warning TellTale Customer Requirements Repository
 
-This repository contains the system, software, and customer requirements (CRs) for the Lane Keep Assistance (LKA) Software Component (SWC), Telltale SWC, and associated AUTOSAR interfaces, aligned with **ISO 26262 (Functional Safety)** guidelines.
+This repository contains the customer requirements (CRs) for the Lane Keep Assistance (LKA) Software Component (SWC), Telltale SWC, and associated AUTOSAR interfaces, aligned with **ISO 26262 (Functional Safety)** guidelines.
 
 ---
 
