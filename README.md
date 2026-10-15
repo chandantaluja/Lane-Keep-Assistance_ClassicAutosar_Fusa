@@ -15,7 +15,7 @@ Phase 6: Implement Functional Safety.
 
 Rest things shall come along.
 
-## Document Revision History
+## Project Revision History
 
 | S. No | Description of Changes | Author | Date | Ver No |
 | :--- | :--- | :--- | :--- | :--- |
