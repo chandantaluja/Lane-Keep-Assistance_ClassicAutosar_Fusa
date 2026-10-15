@@ -82,3 +82,14 @@ Press Ctrl +X to exit the nano editor
 
 Step 11: Retest normal connection
 $ssh -T git@github.com
+
+
+For Everyday usage:
+$ git clone git@github.com:chandantaluja/Lane-Keep-Assistance_ClassicAutosar_Fusa.git
+
+git status
+
+git commit -m "Adding git commands that are used"
+
+
+git push origin main
