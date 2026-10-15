@@ -12,7 +12,7 @@ This repository contains the system, software, and customer requirements (CRs) f
 ├── AutosarMappingGuidelines.md  # Requirements for 
 ├── AutosarPortArchitecture.md  # Requirements for 
 └── README.md                 # Repository documentation and guide   
-
+```
 ## Contributing & Updates
 When adding or modifying Customer Requirements (CRs):  
 Maintain unique ID naming conventions (CR_LKA_XXX).  
