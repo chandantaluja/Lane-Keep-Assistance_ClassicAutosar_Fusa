@@ -5,7 +5,7 @@ Since all AUTOSAR projects follow the ASPICE V Cycle, the same shall be done her
 ![ASPICE V cycle](https://www.suse.com/c/wp-content/uploads/2020/12/aspice-process-reference-model-groups-edit-1024x631.png)
 
 Phases of the project shall include:  
-Phase 1: Define Customer Requirements (SYS.1).  
+Phase 1: [`Define Customer Requirements (SYS.1)`](./ASPICE_Implementation/Customer_Requirements/README.md) - First Draft on Oct 16, 2026  
 Phase 2: Define System Requirements (SYS.2).  
 Phase 3: Define System Architecture (SYS.3).  
 Phase 4: Define Software Requirements (SWE.1).  
