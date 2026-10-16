@@ -11,13 +11,19 @@ Phase 3: Define System Architecture (SYS.3).
 Phase 4: Define Software Requirements (SWE.1).  
 Phase 5: Define Software Architecture (SWE.2).  
 Phase 6: Implement Functional Safety.  
-
+  
+    
+	
 The System overview shall look something like this:
 ![System Overview Diagram](./Draw_io_files/LKA_SystemOverview.jpg)
-
+  
+    
+	
 The software overview shall look something like this:
 ![Software Overview Diagram](./Draw_io_files/SWC_Overview.jpg)
-
+  
+    
+	
 
 Rest things shall come along.
 
