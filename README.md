@@ -12,6 +12,12 @@ Phase 4: Define Software Requirements (SWE.1).
 Phase 5: Define Software Architecture (SWE.2).  
 Phase 6: Implement Functional Safety.  
 
+The System overview shall look something like this:
+![System Overview Diagram](./Draw_io_files/LKA_SystemOverview.jpg)
+
+The software overview shall look something like this:
+![Software Overview Diagram](./Draw_io_files/SWC_Overview.jpg)
+
 
 Rest things shall come along.
 
@@ -20,6 +26,6 @@ Rest things shall come along.
 | S. No | Description of Changes | Author | Date | Ver No |
 | :--- | :--- | :--- | :--- | :--- |
 | 1 | Customer Requirements First Draft | Chandan | Oct 16, 2026 | 0.1 |
-| 2 | — | Chandan | — | — |
+| 2 | System overview on the basis of Customer requirements, added in Draw_io_files  | Chandan | Oct 17, 2026 | 0.2 |
 
 ---
