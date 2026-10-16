@@ -1,0 +1,55 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="tmD1oatvPKRzzFTGcnF5">
+    <mxGraphModel dx="1036" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="6Q2JldXv-fDHtNkrkdsu-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;gradientColor=default;" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;AUTOSAR Runtime Environment (RTE)&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="780" x="35" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="6Q2JldXv-fDHtNkrkdsu-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;" value="" vertex="1">
+          <mxGeometry height="260" width="780" x="35" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6Q2JldXv-fDHtNkrkdsu-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#eeeeee;strokeColor=#36393d;" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;SWC_HwSwtich&lt;/font&gt;" vertex="1">
+          <mxGeometry height="160" width="190" x="60" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6Q2JldXv-fDHtNkrkdsu-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#eeeeee;strokeColor=#36393d;" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;SWC_LKA&lt;/font&gt;" vertex="1">
+          <mxGeometry height="160" width="180" x="260" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6Q2JldXv-fDHtNkrkdsu-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#eeeeee;strokeColor=#36393d;" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;SWC_HMI&lt;/font&gt;" vertex="1">
+          <mxGeometry height="160" width="180" x="450" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6Q2JldXv-fDHtNkrkdsu-8" parent="1" style="shape=corner;whiteSpace=wrap;html=1;dx=125;dy=220;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" value="" vertex="1">
+          <mxGeometry height="460" width="780" x="35" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="6Q2JldXv-fDHtNkrkdsu-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" value="" vertex="1">
+          <mxGeometry height="120" width="645" x="170" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="6Q2JldXv-fDHtNkrkdsu-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" value="" vertex="1">
+          <mxGeometry height="90" width="645" x="170" y="750" as="geometry" />
+        </mxCell>
+        <mxCell id="6Q2JldXv-fDHtNkrkdsu-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;" value="" vertex="1">
+          <mxGeometry height="60" width="780" x="35" y="870" as="geometry" />
+        </mxCell>
+        <mxCell id="zShxI3YUZULaPUFIq7rN-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#FFFFFF;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Application Layer&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="240" x="570" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="zShxI3YUZULaPUFIq7rN-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;rounded=0;fontSize=23;" value="Services Layer" vertex="1">
+          <mxGeometry height="30" width="625" x="185" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="zShxI3YUZULaPUFIq7rN-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;rounded=0;fontSize=23;" value="ECU Abstraction Layer" vertex="1">
+          <mxGeometry height="30" width="615" x="185" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="zShxI3YUZULaPUFIq7rN-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;rounded=0;fontSize=23;" value="Micro-controller Abstraction Layer" vertex="1">
+          <mxGeometry height="30" width="615" x="195" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="zShxI3YUZULaPUFIq7rN-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=23;" value="&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;Micro-controller&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="220" x="290" y="885" as="geometry" />
+        </mxCell>
+        <mxCell id="zShxI3YUZULaPUFIq7rN-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;AUTOSAR System Layered Architecture&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="750" x="50" y="980" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
